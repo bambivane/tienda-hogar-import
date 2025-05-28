@@ -1,0 +1,17 @@
+header {
+   backgraund-color:pink ;
+}
+
+.contenedor img {
+    max-width: 100%;
+    height: 250px;
+    object-fit: contain;
+}
+
+footer {
+    background-color: blanchedalmond;
+    
+}
+ul {
+    list-style: none;
+}
